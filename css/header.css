@@ -1,0 +1,39 @@
+.header{
+    
+}
+.header-logo{
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    color: #2E2F42;
+    font-weight: 700;
+    line-height: 1.33;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+}
+
+.header-logo .accent{
+    color:#4D5AE5 ;
+}
+
+.header-list{
+    color: #2E2F42;
+    font-weight: 500;
+}
+
+.nav-link:hover, 
+.nav-link:focus{
+    color: #404BBF;
+}
+.nav-link.features-link:active{
+    text-decoration: underline;
+}
+
+.adress-link:hover, 
+.adress-link:focus{
+    color: #404BBF;
+}
+
+.adress-link{
+}
+
+

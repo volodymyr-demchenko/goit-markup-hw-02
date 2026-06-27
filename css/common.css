@@ -1,7 +1,10 @@
-body {font-family: "Roboto", sans-serif;
-color: #2E2F42;
-background-color: #FFFFFF;
-line-height: 1.5;}
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 
 ul{
     list-style-type: none;
@@ -10,4 +13,27 @@ ul{
 a{
     color: inherit;
     text-decoration: none;
+}
+
+address{
+    font-style: normal;
+}
+
+.features-headline,
+.portfolio-hedline,
+.team-headline{
+    color: #2E2F42;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+}
+
+.features-subtitle,
+.portfolio-subtitle,
+.team-subtitle{
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
